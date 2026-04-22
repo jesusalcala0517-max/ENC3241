@@ -1,9 +1,8 @@
 <h2>Cover Letter</h2>
 
-<iframe 
-  src="file:///C:/Users/gredy/Downloads/Cover.Letter%20(1).pdf//jesusalcala0517-max.github.io/ENC3241/cover.pdf&embedded=true"
-  width="100%" 
-  height="800px"
-  style="border: none;">
-</iframe>
-
+<iframe
+  src="https://example.com/cover.html"
+  width="100%"
+  height="600px"
+  style="border: none;"
+></iframe>
